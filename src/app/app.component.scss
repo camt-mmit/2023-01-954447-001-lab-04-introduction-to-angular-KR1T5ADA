@@ -1,0 +1,21 @@
+a {
+  color: blue;
+  text-decoration: none;
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 3px 7px;
+  margin: 0 4px;
+}
+
+a.st-active {
+  color: white;
+  background-color: black;
+  border: none;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
